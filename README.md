@@ -1,6 +1,15 @@
-## Hi I'm Pau Segués 👋
+# Pau Segués Vitutia
 
-- 🌱 I’m currently learning Web Development
+🎂 24 de Juliol del 2005
+📍 Solsona, Solsonès, Catalunya
+💻 Desenvolupament d'aplicacions web (Lacetània) 
+
+<!-- 
+## Social Media 
+Web:
+Instagram:
+Twitter:
+-->
 <!--
 **PaAu5/PaAu5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
