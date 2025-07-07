@@ -1,7 +1,9 @@
 # Pau Segués Vitutia
 
 🎂 24 de Juliol del 2005
+
 📍 Solsona, Solsonès, Catalunya
+
 💻 Desenvolupament d'aplicacions web (Lacetània) 
 
 <!-- 
