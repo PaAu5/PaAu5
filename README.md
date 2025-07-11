@@ -1,28 +1,15 @@
-# Pau Segués Vitutia
+# Hi! I'm Pau Segués Vitutia 👋
 
-🎂 24 de Juliol del 2005
+## 🧠 About me
 
-📍 Solsona, Solsonès, Catalunya
+- 📍 Based in **Solsona, Catalonia**
+- 🎂 Born on **July 24th, 2005** (20 years old)
+- 💻 Currently studying **Web Application Development** at *Lacetània*
+- 🚀 Passionate about web technologies, clean code, and continuous learning
 
-💻 Desenvolupament d'aplicacions web (Lacetània) 
+## 🌐 Social Media 
 
-<!-- 
-## Social Media 
-Web:
-Instagram:
-Twitter:
--->
-<!--
-**PaAu5/PaAu5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Web Development
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- - 🌍 Website: [yourwebsite.com](https://yourwebsite.com) -->
+- [📸 Instagram](https://instagram.com/pau_segues)
+- [🐦 X](https://x.com/pau_segues)
+- [📫 Mail](mailto:pauseguesvitutia@gmail.com)
