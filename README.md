@@ -9,7 +9,7 @@
 
 ## 🌐 Social Media 
 
-<!-- - 🌍 Website: [yourwebsite.com](https://yourwebsite.com) -->
+<!-- - [🌍 Website](https://yourwebsite.com) -->
 - [📸 Instagram](https://instagram.com/pau_segues)
 - [🐦 X](https://x.com/pau_segues)
 - [📫 Mail](mailto:pauseguesvitutia@gmail.com)
