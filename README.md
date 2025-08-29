@@ -4,8 +4,7 @@
 
 - 📍 From **Solsona, Catalonia**
 - 🎂 Born on **July 24th, 2005** (20 years old)
-- 💻 Currently studying **Web Application Development** at *Lacetània*
-- 🚀 Passionate about web technologies, clean code, and continuous learning
+- 💻 Studying **Web Application Development**
 
 ## 🌐 Social Media 
 
